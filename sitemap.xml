@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://ovehaas-source.github.io/Binance-P2P-Auto-Bidding-Bot/</loc>
+    <loc>https://dieli9496.github.io/Binance-P2P-Bot/</loc>
+    <lastmod>2025-12-20</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/dieli9496/Binance-P2P-Bot</loc>
+    <lastmod>2025-12-20</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/dieli9496/Binance-Bybit-P2P-Bot</loc>
+    <lastmod>2025-12-20</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/dieli9496/Binance-C2C-auto-bidding-software</loc>
     <lastmod>2025-12-20</lastmod>
   </url>
 </urlset>
