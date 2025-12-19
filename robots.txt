@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ovehaas-source.github.io/Binance-P2P-Auto-Bidding-Bot/sitemap.xml
